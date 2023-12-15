@@ -9,5 +9,9 @@
 				<Hindernisse/>
 				<Unfall/>
 			</Straße>
+			<Auto>
+				<Abstand/>
+				<Geschwindigkeit/>	
+			</Auto>	
 		</Informationen>
 	</Straßenverkehr>
