@@ -1,0 +1,13 @@
+<?xml version="1.0"encoding="UTF-8">
+	<Straßenverkehr>
+		<Informationen>
+			<Straße>
+				<Ampel/>
+				<Dauerlichtzeichenanlage/>
+				<AktuelleStaulage/>
+				<FahrbahnBedingung/>
+				<Hindernisse/>
+				<Unfall/>
+			</Straße>
+		</Informationen>
+	</Straßenverkehr>
